@@ -1,8 +1,8 @@
-# x = int(input())
-# if x<30:
-#     print("no subscription required")
-# else:
-#     print("subscription required")
+x = int(input())
+if x<30:
+    print("no subscription required")
+else:
+    print("subscription required")
 
 
 # n = int(input())
