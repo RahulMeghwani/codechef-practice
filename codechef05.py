@@ -1,0 +1,5 @@
+x = int(input())
+y = int(input())
+a = (10*x)
+b = (90*y)
+print(a+b)
